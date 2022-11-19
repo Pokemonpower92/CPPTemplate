@@ -1,6 +1,6 @@
-_SOURCES = card.cpp deck.cpp
-_OBJECTS = card.o deck.o poker.o
-_BINS = poker
+_SOURCES = 
+_OBJECTS = 
+_BINS =
 
 SRC_DIR = ./src
 OBJ_DIR = ./obj
