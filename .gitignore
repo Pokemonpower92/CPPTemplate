@@ -1,0 +1,8 @@
+./bin/*
+./obj/*
+
+# Keep these
+!./bin/.keep
+!./src/.keep
+!./obj/.keep
+!./include/.keep
